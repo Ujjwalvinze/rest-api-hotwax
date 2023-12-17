@@ -85,3 +85,5 @@ db.query(createTablesQuery, (err) => {
   }
   console.log("Tables created successfully");
 });
+
+// db.end();
